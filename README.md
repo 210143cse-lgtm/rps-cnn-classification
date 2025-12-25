@@ -134,16 +134,16 @@ Three misclassified test images were identified and analyzed:
 These errors highlight the model's limitations with ambiguous hand positions and partial visibility.
 
 ## Visual Outputs
-![Training History](results/training_history.png)
+![Training History](results/training_history.jpg)
 *Training and validation metrics over 15 epochs*
 
 ![Confusion Matrix](results/confusion_matrix.png)
 *Model performance across Rock, Paper, and Scissors classes*
 
-![Prediction Gallery](results/custom_prediction_gallery.png)
+![Prediction Gallery](results/custom_prediction_gallery.jpg)
 *10 custom phone photos with predictions and confidence scores*
 
-![Error Analysis](results/error_analysis.png)
+![Error Analysis](results/error_analysis.jpg)
 *Three misclassified examples from the test set*
 
 ## Technical Implementation Details
