@@ -2,7 +2,7 @@
 ROCK-PAPER-SCISSORS CNN CLASSIFICATION - ASSIGNMENT SUBMISSION
 ================================================================
 
-STUDENT ID: 210143cse-lgtm
+STUDENT ID: 210143
 DATE: 2025-12-25 21:16:31
 
 MODEL PERFORMANCE:
