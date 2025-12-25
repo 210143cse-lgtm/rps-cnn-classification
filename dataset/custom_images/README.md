@@ -1,1 +1,0 @@
-Custom hand gesture photos
