@@ -1,1 +1,52 @@
 
+ROCK-PAPER-SCISSORS CNN CLASSIFICATION - ASSIGNMENT SUBMISSION
+================================================================
+
+STUDENT ID: 210143cse-lgtm
+DATE: 2025-12-25 21:16:31
+
+MODEL PERFORMANCE:
+------------------
+Test Accuracy: 98.41%
+Total Test Images: 504
+Correct Predictions: 496
+Incorrect Predictions: 8
+
+REAL-WORLD TESTING (PHONE PHOTOS):
+-----------------------------------
+Total Phone Photos Tested: 10
+Predictions Made: 10
+
+ASSIGNMENT REQUIREMENTS CHECKLIST:
+-----------------------------------
+✓ Standard dataset training (Rock-Paper-Scissors dataset)
+✓ 10 phone photos taken with smartphone and uploaded to GitHub
+✓ Predictions on all phone photos with confidence %
+✓ Training history plots (Loss & Accuracy vs Epochs)
+✓ Confusion matrix on test set
+✓ Custom prediction gallery (10 phone photos with predictions)
+✓ 3 incorrect predictions from test set displayed
+✓ Model saved to GitHub (.pth file)
+✓ GitHub repository with proper structure
+✓ Google Colab notebook runs completely with "Run All"
+
+FOLDER STRUCTURE VERIFICATION:
+------------------------------
+✓ dataset/custom_images/ - 10 phone photos
+✓ model/ - Saved model file (210143.pth)
+✓ results/ - All output files and plots
+✓ 210143_RPS.ipynb - This notebook
+✓ README.md - Project documentation
+
+AUTOMATION VERIFICATION:
+------------------------
+✓ Git clone from GitHub - Works automatically
+✓ Dataset download - Works automatically
+✓ Model training/loading - Works automatically
+✓ Phone photo prediction - Works automatically
+✓ All visualizations - Generated automatically
+
+NOTEBOOK EXECUTION:
+-------------------
+This notebook can be run with "Runtime → Run All" without any manual intervention.
+All files are automatically downloaded from GitHub and processed.
